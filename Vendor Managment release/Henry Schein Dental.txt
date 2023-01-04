@@ -1,0 +1,4 @@
+VendorID: Henry Schein Dental
+AccountID: NO DATA
+NumberID: 1800-645-6594
+InfoID: Equipment Vendor

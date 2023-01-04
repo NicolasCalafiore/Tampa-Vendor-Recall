@@ -1,0 +1,4 @@
+VendorID: Konica
+AccountID: gcs@kmbs.konicaminolta.us
+NumberID: 1800-456-5664
+

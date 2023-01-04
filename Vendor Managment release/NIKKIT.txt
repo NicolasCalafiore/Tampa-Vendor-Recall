@@ -1,0 +1,10 @@
+VendorID: NIKKIT
+ARCHIVED Tech
+ARCHIVED 8133272817
+ARCHIVED Nico
+
+InfoID: Info Test
+
+NumberID: Number Test
+
+AccountID: Account Test
