@@ -1,6 +1,6 @@
 # Vendor Recall
 ## What the program is about (Version Independant)
-This was a program I made for practice with Java Server Sockets in 2018. I created a model program that containts a client and a socket server of which stored the information of vendors and could be read and edited by the client that is connected. 
+This was a program I made for practice with Java Server Sockets in 2018. I created a model program that contains a client and a socket server of which stored the information of vendors and could be read and edited by the client that is connected. 
 
 #### Created: Mid 2018
 
