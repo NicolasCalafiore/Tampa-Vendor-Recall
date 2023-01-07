@@ -1,18 +1,15 @@
-Objective:
-This project was a proof-of-concept program where I wanted to understand socket programming and also get some GUI practice in. The source files are located in "Vendor Management src" and a runnable version can be found in "Vendor Management release". From there "Startup.bat" should be runned. This will launch the server AND client on your computer. Unfortunately comments on source files were not used.
+# Vendor Recall
+## What the program is about (Version Independant)
+This was a program I made for practice with Java Server Sockets in 2018. I created a model program that containts a client and a socket server of which stored the information of vendors and could be read and edited by the client that is connected. 
 
-Functions:
-    - Create a new record of a new vendor consisting of information related to the vendor
-    - Edit existing information
-    - Search for vendor information
-    - All functions are present on the server and recieves request by the Client
+#### Created: Mid 2018
 
-Notes:
-- In this program claims to be "Tampa Family Clinic Vendor". This was only a name I adopted from my fathers employer and this program has never been used by them. Only was used to give me a make-believe client to build the program.
-
-- This was also my 2nd GUI application ever.
-
-Date:
-circa. Mid 2019
-
-This project was created around 2019 and will not be updated.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## About Version One
+ - Created Around Mid 2018
+ - Java
+ - Swing (GUI)
+ - Java Sever and Client applications are available in the release.
+ - A runnable version can be found in "Vendor Management release". From there "Startup.bat" should be runned to run both Client and Server
+ - I used a personal company that I knew of to center my application around to give my application reasonable requirements but in no way had any affiliation with them.
+ - My first socket program using Java.
